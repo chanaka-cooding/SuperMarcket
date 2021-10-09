@@ -20,5 +20,15 @@ public class lk {
 
 
     }
+    public static void print(){
 
+    }
+    public static void print2(){
+
+    }
+
+    @Override
+    public String toString() {
+        return null;
+    }
 }
