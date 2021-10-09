@@ -26,6 +26,9 @@ public class lk {
     public static void print2(){
 
     }
+    public static void work(){
+        System.out.println("");
+    }
 
     @Override
     public String toString() {
@@ -35,5 +38,10 @@ public class lk {
     @Override
     public int hashCode() {
         return super.hashCode();
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
     }
 }
