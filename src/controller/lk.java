@@ -31,4 +31,9 @@ public class lk {
     public String toString() {
         return null;
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 }
